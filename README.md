@@ -19,17 +19,17 @@
 
 ### 🌐 **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vite" alt="Frontend Tech Stack" />
 </p>
 
 ### ⚙️ **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend Tech Stack" />
 </p>
 
 ### 🗄️ **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis" alt="Databases" />
 </p>
 
 ### 💻 **Programming Languages**
@@ -39,7 +39,7 @@
 
 ### 🔧 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools" />
 </p>
 
 ---
