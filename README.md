@@ -1,73 +1,80 @@
-👋 Hi, I'm Sahan Takhachhen
+<h1 align="center">Hi! I'm Sahan Takhachhen 👋</h1>
 
-💻 Full-Stack Developer • 🌱 Lifelong Learner • 🚀 Open Source Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=3751F7&vCenter=true&width=435&lines=Full-Stack+Developer;Lifelong+Learner;Open+Source+Enthusiast;Building+Scalable+Applications" alt="Professional Tagline" />
+</p>
 
-✨ Building scalable apps | ⚡ Learning every day | 🤝 Open to collaborate
+<hr/>
 
-🚀 About Me
+## 🚀 About Me
 
-🔭 Working on Full-Stack Web Apps
+- 🌱 **Passionate Learner:** Exploring Scalable Backend Architectures, System Design, and Databases.
+- 💻 **Current Focus:** Crafting Full-Stack Web Applications with robust functionalities.
+- 🤝 **Collaboration:** Open to collaborations, internships, and exciting opportunities.
+- 🎯 **Career Goal:** Aiming to become an accomplished **Software Engineer** and make impactful contributions to technology.
 
-🌱 Learning Scalable Backend Architecture
+---
 
-💡 Into APIs • System Design • Databases
+## 🛠️ Tech Stack
 
-🤝 Open for collaboration & internships
+### 🌐 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" alt="Frontend Tech Stack" />
+</p>
 
-🎯 Goal → Software Engineer
+### ⚙️ **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend Tech Stack" />
+</p>
 
-🛠️ Tech Stack
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=js,java,python,mysql" /> </p>
-🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,django" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </p>
-🔧 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" /> </p>
-📌 Featured Projects
-🔹 📊 Social Media Analytics Dashboard
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" alt="Databases" />
+</p>
 
-⚛️ React • 🐍 Django REST • 🔐 JWT
+### 💻 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python,mysql" alt="Programming Languages" />
+</p>
 
-📈 Video analytics
+### 🔧 **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" alt="Tools" />
+</p>
 
-�� Sentiment analysis
+---
 
-🌐 Platform insights
+## 📌 Featured Projects
 
-🔹 🏗️ Node.js MVC Backend
+#### 🔹 **[Social Media Analytics Dashboard](#)**
+- ⚛️ **Tech Stack:** React, Django REST, JWT
+- 📈 **Features:** Video Analytics, Sentiment Analysis, and Platform Insights.
 
-🟢 Express • 🍃 MongoDB • 🔐 JWT
+#### 🔹 **[Node.js MVC Backend](#)**
+- 🔧 **Tech Stack:** Express, MongoDB, JWT
+- 🏗️ **Core Highlights:** Clean MVC Architecture, RESTful APIs, and Scalable Structures.
 
-Clean MVC architecture
+#### 🔹 **[Android Apps](#)**
+- 🤖 **Built with Java and SQLite**
+- 🚀 **Key Features:** Login & Register, Calculator App, and CRUD Recycler Views.
 
-Scalable structure
+---
 
-RESTful APIs
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahan11111&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan11111&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
-🔹 📱 Android Apps
+---
 
-🤖 Java • 🗄️ SQLite
+## 🤝 Connect With Me
 
-🔐 Login & Register
+- 📧 **Email:** takhachhensahan@gmail.com
+- 💬 **GitHub:** [@sahan11111](https://github.com/sahan11111)
+- 🌍 **Status:** Open to internships & collaborations!
 
-🧮 Calculator
+---
 
-📋 CRUD + RecyclerView
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahan11111&show_icons=true&theme=tokyonight&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan11111&layout=compact&theme=tokyonight" /> </p>
-🤝 Connect With Me
-
-📧 Email: takhachhensahan@gmail.com
-
-💬 GitHub: https://github.com/sahan11111
-
-🌍 Status: Open to internships & collaboration
-
-⚡ Fun Fact
-
-🧠 I love turning complex problems into clean, efficient solutions.
+## ⚡ Fun Fact
+- 🧠 I turn complex challenges into clean, impactful solutions!
