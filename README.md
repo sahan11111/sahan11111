@@ -1,42 +1,73 @@
-# Hi there, I'm Sahan! 👋
+👋 Hi, I'm Sahan Takhachhen
 
-Welcome to my GitHub profile! I'm Sahan, a passionate developer who loves to create, experiment, and share my work with the community. Feel free to explore my repositories and connect with me!
+💻 Full-Stack Developer • 🌱 Lifelong Learner • 🚀 Open Source Enthusiast
 
----
+✨ Building scalable apps | ⚡ Learning every day | 🤝 Open to collaborate
 
-## 🌱 About Me
+🚀 About Me
 
-- 💻 Enthusiast in software development, open-source contributions, and learning new technologies.
-- 🌟 Constantly improving and exploring new areas of programming.
-- 🌍 Open to collaboration and helping the community grow.
+🔭 Working on Full-Stack Web Apps
 
----
+🌱 Learning Scalable Backend Architecture
 
-## 🔧 Technologies I Work With
+💡 Into APIs • System Design • Databases
 
-- **Languages**: (Add the programming languages you work with!)
-- **Frameworks & Tools**: (List significant tools/frameworks you use!)
-- **Interests**: (e.g., Web Development, Machine Learning, etc.)
+🤝 Open for collaboration & internships
 
----
+🎯 Goal → Software Engineer
 
-## 📂 GitHub Projects
+🛠️ Tech Stack
+💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=js,java,python,mysql" /> </p>
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,django" /> </p>
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </p>
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" /> </p>
+📌 Featured Projects
+🔹 📊 Social Media Analytics Dashboard
 
-Here are some highlights of my work:
-- 🔹 [sahan11111](https://github.com/sahan11111/sahan11111): (Add a short description of the repository's purpose or your projects!)
-- 🔹 More projects coming soon...
+⚛️ React • 🐍 Django REST • 🔐 JWT
 
----
+📈 Video analytics
 
-## 🤝 Let's Connect
+�� Sentiment analysis
 
-- 💼 Portfolio: (Add your portfolio link if available!)
-- 🌐 Website: (If you have a personal website, link it here!)
-- 📫 Reach me at: (takhachhensahan@gmail.com)
-- 💬 Message me here on GitHub!
+🌐 Platform insights
 
----
+🔹 🏗️ Node.js MVC Backend
 
-✨ Thank you for visiting! Feel free to check out my repositories and connect with me for collaboration or just to say hi!
+🟢 Express • 🍃 MongoDB • 🔐 JWT
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahan11111&show_icons=true&hide=stars&count_private=true)
+Clean MVC architecture
+
+Scalable structure
+
+RESTful APIs
+
+🔹 📱 Android Apps
+
+🤖 Java • 🗄️ SQLite
+
+🔐 Login & Register
+
+🧮 Calculator
+
+📋 CRUD + RecyclerView
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahan11111&show_icons=true&theme=tokyonight&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan11111&layout=compact&theme=tokyonight" /> </p>
+🤝 Connect With Me
+
+📧 Email: takhachhensahan@gmail.com
+
+💬 GitHub: https://github.com/sahan11111
+
+🌍 Status: Open to internships & collaboration
+
+⚡ Fun Fact
+
+🧠 I love turning complex problems into clean, efficient solutions.
