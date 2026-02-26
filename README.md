@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Sahan Takhachhen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=3751F7&vCenter=true&width=435&lines=Full-Stack+Developer;Lifelong+Learner;Open+Source+Enthusiast;Building+Scalable+Applications" alt="Professional Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=3751F7&vCenter=true&width=435&lines=Backend+Developer;Lifelong+Learner;Open+Source+Enthusiast;Building+Scalable+Applications" alt="Professional Tagline" />
 </p>
 
 <hr/>
@@ -60,13 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahan11111&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahan11111&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
