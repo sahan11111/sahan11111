@@ -39,7 +39,7 @@
 <br/><br/>
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,laravel" />
 
 <br/><br/>
 
@@ -51,7 +51,7 @@
 <td width="50%" valign="top" align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,java,python" />
+<img src="https://skillicons.dev/icons?i=js,java,python,php" />
 
 <br/><br/>
 
@@ -82,9 +82,6 @@
 
 <br/>
 
-#### 🔹 **[Android Apps](#)**
-🤖 **Built with Java and SQLite**  
-🚀 **Key Features:** Login & Register, Calculator App, and CRUD Recycler Views.
 
 </div>
 
